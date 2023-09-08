@@ -5,4 +5,4 @@ def islower(c):
         if ord(c) == i:
             check = True
             break
-    return(check)
+    return (check)
